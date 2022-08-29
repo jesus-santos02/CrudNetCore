@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudNetCore
 build_property.RootNamespace = CrudNetCore
-build_property.ProjectDir = D:\ARCHIVOS\INFORMATICA\PRACTICAS\PROGRAMACION\C#\ASP\CrudNetCore\CrudNetCore\
+build_property.ProjectDir = d:\ARCHIVOS\INFORMATICA\PRACTICAS\PROGRAMACION\C#\ASP\CrudNetCore\CrudNetCore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ARCHIVOS\INFORMATICA\PRACTICAS\PROGRAMACION\C#\ASP\CrudNetCore\CrudNetCore
+build_property.MSBuildProjectDirectory = d:\ARCHIVOS\INFORMATICA\PRACTICAS\PROGRAMACION\C#\ASP\CrudNetCore\CrudNetCore
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Home/Index.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Home/Privacy.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Create.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Delete.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Edit.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Index.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Libros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Shared/Error.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/_ViewImports.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/_ViewStart.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Shared/_Layout.cshtml]
+[d:/ARCHIVOS/INFORMATICA/PRACTICAS/PROGRAMACION/C\#/ASP/CrudNetCore/CrudNetCore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vxf96a17bw
